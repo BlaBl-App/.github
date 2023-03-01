@@ -5,7 +5,7 @@
  
  ## :dart: Goal
  
- Make a simple and open source form app 
+ Make a simple and open source furm app 
  
  
  ## 🏗️ Structure

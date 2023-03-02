@@ -11,4 +11,4 @@
  ## 🏗️ Structure
  
  This project is composed of an [android app](https://github.com/BlaBl-App/BlaBl-App)  in Kotlin<br>
- and of an [docker API](https://github.com/orgs/BlaBl-App/repositories) made with python 
+ and of an [docker API](https://github.com/BlaBl-App/BlaBl-API) made with python 

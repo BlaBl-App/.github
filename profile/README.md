@@ -4,10 +4,11 @@
 
 # About
 
-Welcome to the BlaBl' organization! We are a group of developers who are passionate about creating simple and open-source apps and APIs. Our goal is to make technology more accessible to everyone by providing free, reliable, and easy-to-use tools.
-Projects
+Welcome to the BlaBl'Organization! We are a group of developers who are passionate about creating simple and open-source apps and APIs. Our goal is to make technology more accessible to everyone by providing free, reliable, and easy-to-use tools.
 
-# We currently have the following projects:
+# Projects
+
+## We currently have the following projects:
 ## <a href="https://github.com/BlaBl-App/BlaBl-App"> 📱 BlaBl'App
 <a href="https://github.com/BlaBl-App/BlaBl-App"> 
 <div align="left">

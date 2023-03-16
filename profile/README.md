@@ -12,7 +12,7 @@ Welcome to the BlaBl'Organization! We are a group of developers who are passiona
 ## <a href="https://github.com/BlaBl-App/BlaBl-App"> 📱 BlaBl'App
 <a href="https://github.com/BlaBl-App/BlaBl-App"> 
 <div align="left">
-  <img width="128" alt="Plugin icon - 1 (1)" src="https://user-images.githubusercontent.com/37497007/222096241-a883f13a-265a-4aa5-9f55-7433888dd8de.png">
+  <img width="128" alt="logo" src="https://user-images.githubusercontent.com/37497007/225736025-091b15cd-a010-4e0f-856e-de8c61aca813.png">
 </div>
 </a>
 BlaBl'App is a simple and open-source forum app made in Kotlin for Android devices. <br> With BlaBl'App, you can create and join forums, post messages, and interact with other users. Here are some of its features:
@@ -26,7 +26,7 @@ Check out our demo GIF and screenshots to see it in action!
 ## <a href="https://github.com/BlaBl-App/BlaBl-API"> ⚙️ BlaBl'API
 <a href="https://github.com/BlaBl-App/BlaBl-API">
 <div align="left">
-  <img width="128" alt="Plugin icon - 4" src="https://user-images.githubusercontent.com/37497007/222099229-38659c41-e75f-4a0a-9227-84ee0b17bbfb.png">
+  <img width="128" alt="logo" src="https://user-images.githubusercontent.com/37497007/225736109-5a637eab-e241-4e14-b9c2-b1626c80a02c.png">
 </div>
 </a>
 BlaBl'API is a backend Docker Python API for BlaBl'App.<br> With BlaBl'API, you can manage forums, messages, and users from the server-side. 
@@ -36,7 +36,7 @@ Check out our setup and testing instructions to learn how to use it!
 ## <a href="https://github.com/BlaBl-App/BlaBl-ist"> 📋 BlaBl-ist
 <a href="https://github.com/BlaBl-App/BlaBl-ist"> 
 <div align="left">
-  <img style="border-radius: 4px;" width="128" alt="logo" src="https://user-images.githubusercontent.com/37497007/223111252-9c797536-da43-47fc-bee5-cfaa66721e23.png">
+  <img style="border-radius: 4px;" width="128" alt="logo" src="https://user-images.githubusercontent.com/37497007/225736204-3a6e8d22-0ff7-4d14-8767-dcb2eeb5730c.png">
 </div>
 </a>
 
